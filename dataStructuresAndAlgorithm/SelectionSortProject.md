@@ -43,4 +43,4 @@ Step4: [2,3,4,5,7,9,8,15,6] n-3
 ---
 Step7: [2,3,4,5,6,7,8,9,15] n-6
 ```
-![Screenshot 2024-02-03 101531](https://github.com/alpulkegul/kodluyoruz/assets/158475086/a0738308-ec01-449e-9bb5-b98a0e308bde)
+![SelectionSort](https://github.com/alpulkegul/kodluyoruz/assets/158475086/0b890512-cb22-496b-983c-99a468471a68)

@@ -23,4 +23,4 @@ Answer a)
 
 
 
-![Screenshot 2024-02-03 101248](https://github.com/alpulkegul/kodluyoruz/assets/158475086/ddaba8b4-0448-47a2-9eeb-06637d36bfd2)
+![BinarySearchTree](https://github.com/alpulkegul/kodluyoruz/assets/158475086/6c7c6734-9ba5-4633-82a1-d3e64e2da6d7)

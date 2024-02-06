@@ -25,6 +25,4 @@ O(logn)
 ```
 
 
-
-![Screenshot 2024-02-03 101333](https://github.com/alpulkegul/kodluyoruz/assets/158475086/46a4a271-c0a0-45fb-ba8e-cd1cb81d38dc)
-
+![MergeSort](https://github.com/alpulkegul/kodluyoruz/assets/158475086/94fd2158-ecc3-4ecb-ad17-7af43a86a4c2)
