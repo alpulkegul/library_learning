@@ -1,7 +1,7 @@
-![image.patika](https://assets-global.website-files.com/6097e0eca1e875de53031ff6/6241a5ec363584013b7b1857_Patika%20logo%20(2).png)
+![patika.logo](https://github.com/alpulkegul/kodluyoruz/assets/158475086/7c33b925-97d9-4bef-ab4f-bf3df55850d0)
+
 
 # Project Name: Patika & Kodluyoruz
-
 
 #### Who am I?
 
