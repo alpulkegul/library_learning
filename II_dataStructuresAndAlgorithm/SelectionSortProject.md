@@ -5,7 +5,7 @@
 
 ###### 1. [22,27,16,2,18,6] -- *Insertion sort*
 
-a) Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.
+a) Write the stages of the sequence given above according to sort type.
 ```
 Answer:
 
@@ -14,13 +14,13 @@ Step 2. [2,27,16,22,18,6] n - 1
 Step 3. [2,6,16,22,18,27] n - 2
 Step 4. [2,6,16,18,22,27] n - 3
 ```
-b) Big-O gösterimini yapınız.
+b) Make the Big-O representation.
 ```
 Answer:
 
 O(n^2)
 ```
-c) Time Complexity: Dizi sıralandıktan sonra ***18*** sayısı aşağıdaki caselerden hangisinin kapsamına girer? Yazınız.
+c) Time Complexity: After sorting the sequence, the number **18** falls under which of the following cases? Write it down.
 
 1. Average Case
 2. Worst Case
@@ -31,7 +31,7 @@ Answer:
 1. Average Case
 ```
 
-###### 2. [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
+###### 2. Write the first 4 steps of the sequence [7,3,5,8,2,9,4,15,6] according to Selection Sort.
 
 ```
 Answer:

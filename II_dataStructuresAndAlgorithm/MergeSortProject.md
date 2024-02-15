@@ -5,7 +5,7 @@
 
 ###### [16,21,11,8,12,22] -- *Merge Sort*
 
-a) Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.
+a) Write the stages of the sequence given above according to sort type.
 ```
 Answer:
 
@@ -17,7 +17,7 @@ Step 5. [16]    [11,21]     [8] [12,22]
 Step 6. [11,16,21]  [8,12,22] 
 Step 7. [8,11,12,16,21,22] 
 ```
-b) Big-O gösterimini yapınız.
+b) Make the *Big-O* representation.
 ```
 Answer:
 

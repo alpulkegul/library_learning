@@ -1,30 +1,33 @@
-# KODLUYORUZ İLK REPO 
+## - *Example Repo*
 
-Bu repo [Kodluyoruz](kodluyoruz.org) Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README.md dosyası bir adet de index.html bulunuyor.
+# KODLUYORUZ FIRST REPO 
+
+This repo is the first repo we created in [Kodluyoruz](kodluyoruz.org) Front-End training. It contains a 'README.md' file and an 'index.html' file. 
 
 ![image](https://github.com/Kodluyoruz/taskforce/raw/main/git/odev1/figures/github.png)
+
 ## Installation
 
-Öncelikle projeyi clonelayın.
+First clone the project.
 
 ```
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+git clone https://github.com/alpulkegul/kodluyoruz/tree/main/I_KodluyoruzFirstRepo
 ```
 
 ## Usage
 
 
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+After cloning the project, open it in Visual Studio Code.
 
-Linux için:
+For Linux:
 ```
-cd kodluyoruzilkrepo
+cd I_KodluyoruzFirstRepo
 code .
 ```
 
 ## Contributing
 
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+Pull requests are accepted. For major changes, please open a topic to discuss what you want to change first.
 
 ## License
 

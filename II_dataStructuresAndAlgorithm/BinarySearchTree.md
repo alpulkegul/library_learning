@@ -5,7 +5,7 @@
 
 ###### [7,5,1,8,3,6,0,9,4,2]
 
-a) Yukarıda verilen dizinin Binary-Search-Tree aşamalarını yazınız.
+a) Write the *'binary-search-tree'* stages of the sequence given above.
 ```
 Answer a)
 
