@@ -27,14 +27,14 @@
     
     ❓Time Complexity: After sorting the sequence, the number 18 falls under which of the following cases? Write is down.
     
-    1. Average Case
-    2. Worst Case
-    3. Best Case
+    * Average Case
+    * Worst Case
+    * Best Case
     
     <aside>
         ✅ Answer:
     
-        1. Average Case
+        Average Case
     
     </aside>
     
