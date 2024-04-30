@@ -18,7 +18,7 @@
         
     </aside>
         
-    ❓Make the *Big-O* representation.
+    ❓Make the Big-O representation.
         
     <aside>
         ✅ Answer:
