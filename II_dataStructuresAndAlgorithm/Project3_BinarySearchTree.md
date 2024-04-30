@@ -2,7 +2,8 @@
 ## Questions & Answer
 
 1. [7,5,1,8,3,6,0,9,4,2] → Binary Sort Tree
-    a. Write the binary-search-tree stages of the sequence given above.
+
+    ❓Write the binary-search-tree stages of the sequence given above.
         
       <aside>
         ✅ Answer:

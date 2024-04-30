@@ -2,7 +2,8 @@
 ## Questions & Answers
 
 1. [16,21,11,8,12,22] → Merge Sort 
-    a. Write the stages of the sequence given above according to sort type.
+
+    ❓Write the stages of the sequence given above according to sort type.
         
     <aside>
         ✅ Answer:
@@ -17,7 +18,7 @@
         
     </aside>
         
-    b. Make the *Big-O* representation.
+    ❓Make the *Big-O* representation.
         
     <aside>
         ✅ Answer:

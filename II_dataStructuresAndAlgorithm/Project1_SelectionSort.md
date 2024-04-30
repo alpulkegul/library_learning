@@ -2,7 +2,8 @@
 ## Questions & Answers
 
 1. [22,27,16,2,18,6] → Insertion Sort
-    a. Write the stages of the sequence given above according to sort type.
+
+    ❓Write the stages of the sequence given above according to sort type.
         
         <aside>
         ✅ Answer:
@@ -15,16 +16,16 @@
         </aside>
         
     
-    b. Make the Big-O representation.
+    ❓Make the Big-O representation.
     
     <aside>
         ✅ Answer:
-    
+
         O(n^2)
     
     </aside>
     
-    c. Time Complexity: After sorting the sequence, the number 18 falls under which of the following cases? Write is down.
+    ❓Time Complexity: After sorting the sequence, the number 18 falls under which of the following cases? Write is down.
     
     1. Average Case
     2. Worst Case
@@ -37,7 +38,8 @@
     
     </aside>
     
-2. Write the first 4 steps of the sequence [7,3,5,8,2,9,4,15,6] according to selection sort.
+2. ❓Write the first 4 steps of the sequence [7,3,5,8,2,9,4,15,6] according to selection sort.
+
     
     <aside>
         ✅ Answer:
