@@ -1,7 +1,7 @@
 ![patika.logo](https://github.com/alpulkegul/kodluyoruz/assets/158475086/7c33b925-97d9-4bef-ab4f-bf3df55850d0)
 
 
-# Project Name: Patika & Kodluyoruz
+# Project Name: Library
 
 #### Who am I?
 
