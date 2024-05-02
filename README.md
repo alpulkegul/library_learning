@@ -1,4 +1,4 @@
-![patika.logo](https://github.com/alpulkegul/kodluyoruz/assets/158475086/7c33b925-97d9-4bef-ab4f-bf3df55850d0)
+![img]([https://github.com/alpulkegul/kodluyoruz/assets/158475086/7c33b925-97d9-4bef-ab4f-bf3df55850d0](https://w7.pngwing.com/pngs/743/713/png-transparent-library-bookshelves-librarian-chairs-thumbnail.png))
 
 
 # Project Name: Library
