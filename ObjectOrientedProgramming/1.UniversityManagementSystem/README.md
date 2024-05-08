@@ -16,5 +16,5 @@
 # ↓ Ekran görüntüsü aşağıdadır.
 
 
-![UniversityManagementSystem](https://github.com/alpulkegul/library_learning/assets/158475086/0d1008c0-1d8c-4d77-881c-2d687c29c1d9)
+![UniversityManagementSystem](https://github.com/alpulkegul/library_learning/assets/158475086/4f09d9c6-7fc7-477e-9587-08dac2a09855)
 
