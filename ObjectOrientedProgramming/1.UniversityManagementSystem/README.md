@@ -1,25 +1,20 @@
 # Gerekenler
+1. Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
 
-Hayvanlar:
+2. Departmanlara ait ofisler vardır.
 
-- Atlar (atlar, zebralar, eşekler vb.),
-- Kedigiller (kaplanlar, aslanlar vb.),
-- Kemirgenler (sıçanlar, kunduzlar vb.) 
+3. Üniversiteye ait çalışanlar vardır. Bu çalışanlar profesör veya memur olabilir.
 
-gibi gruplardaki türlerle karakterize edilir.
+4. Her çalışan bir ofiste çalışır.
 
-→ Hayvanlar hakkında depolanan bilgilerin çoğu tüm gruplamalar için aynıdır.
-(tür adı, ağırlığı, yaşı vb.)
+*Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.*
 
-→ Sistem ayrıca her hayvan için belirli ilaçların dozajını alabilmeli 
-$=>$ getDosage()
-→ Sistem Yem verme zamanlarını hesaplayabilmelidir. 
-$=>$ getFeedSchedule ()
+**Not : ``Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.``**
 
 ---
 
 # ↓ Ekran görüntüsü aşağıdadır.
 
 
-![ZooManagementSystem](https://github.com/alpulkegul/library_learning/assets/158475086/e8cfc575-9126-41a8-adb7-c0f03a04930a)
+![UniversityManagementSystem](https://github.com/alpulkegul/library_learning/assets/158475086/4f09d9c6-7fc7-477e-9587-08dac2a09855)
 
