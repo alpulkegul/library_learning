@@ -1,25 +1,19 @@
 # Gerekenler
 
-Hayvanlar:
+Online film satan veya kiralayan uygulamanın sistemini tasarlayın.
 
-- Atlar (atlar, zebralar, eşekler vb.),
-- Kedigiller (kaplanlar, aslanlar vb.),
-- Kemirgenler (sıçanlar, kunduzlar vb.) 
+- Uygulamada filmler listelenebilir, sıralanabilir ve kullanıcılar uygulamaya abone olabilir.
+- Kullanıcılar abonelik için sistem üzerinden kredi satın alır.
+- Sadece abone olan kullanıcılar, kredileri ile film kiralayabilir ve kiraladığı filmin kredi bedeli kadar hesabından düşülür.
+- Normal kullanıcılar ve aboneler film satın alabilirler.
+- Eğer film mevcut değil ise talep edilebilir.
 
-gibi gruplardaki türlerle karakterize edilir.
-
-→ Hayvanlar hakkında depolanan bilgilerin çoğu tüm gruplamalar için aynıdır.
-(tür adı, ağırlığı, yaşı vb.)
-
-→ Sistem ayrıca her hayvan için belirli ilaçların dozajını alabilmeli 
-$=>$ getDosage()
-→ Sistem Yem verme zamanlarını hesaplayabilmelidir. 
-$=>$ getFeedSchedule ()
+Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
 ---
 
-# ↓ Ekran görüntüsü aşağıdadır.
 
 
-![ZooManagementSystem](https://github.com/alpulkegul/library_learning/assets/158475086/e8cfc575-9126-41a8-adb7-c0f03a04930a)
+
+
 

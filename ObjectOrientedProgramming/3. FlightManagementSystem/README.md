@@ -1,25 +1,21 @@
 # Gerekenler
 
-Hayvanlar:
+Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
 
-- Atlar (atlar, zebralar, eşekler vb.),
-- Kedigiller (kaplanlar, aslanlar vb.),
-- Kemirgenler (sıçanlar, kunduzlar vb.) 
+- Hava yolu şirketleri uçuşları gerçekleştirir. Her hava yolunun bir kimliği vardır.
+- Hava yolu şirketi, farklı tipteki uçaklara sahiptir.
+- Uçaklar çalışır veya onarım durumunda olabilir.
+- Her uçuşun benzersiz kimliği, kalkacağı ve ineceği havaalanı, kalkış ve iniş saatleri vardır.
+- Her uçuşun bir pilotu ve yardımcı pilotu vardır ve uçağı kullanırlar.
+- Havaalanlarının benzersiz kimlikleri ve isimleri vardır.
+- Hava yolu şirketlerinin pilotları vardır ve her pilotun bir deneyim seviyesi mevcuttur.
+- Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir.
 
-gibi gruplardaki türlerle karakterize edilir.
-
-→ Hayvanlar hakkında depolanan bilgilerin çoğu tüm gruplamalar için aynıdır.
-(tür adı, ağırlığı, yaşı vb.)
-
-→ Sistem ayrıca her hayvan için belirli ilaçların dozajını alabilmeli 
-$=>$ getDosage()
-→ Sistem Yem verme zamanlarını hesaplayabilmelidir. 
-$=>$ getFeedSchedule ()
+Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
 ---
 
-# ↓ Ekran görüntüsü aşağıdadır.
 
 
-![ZooManagementSystem](https://github.com/alpulkegul/library_learning/assets/158475086/e8cfc575-9126-41a8-adb7-c0f03a04930a)
+
 

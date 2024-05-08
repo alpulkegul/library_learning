@@ -1,4 +1,5 @@
 # Gerekenler
+
 1. Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
 
 2. Departmanlara ait ofisler vardır.
@@ -13,8 +14,5 @@
 
 ---
 
-# ↓ Ekran görüntüsü aşağıdadır.
 
-
-![UniversityManagementSystem](https://github.com/alpulkegul/library_learning/assets/158475086/4f09d9c6-7fc7-477e-9587-08dac2a09855)
 

@@ -18,8 +18,8 @@ $=>$ getFeedSchedule ()
 
 ---
 
-# ↓ Ekran görüntüsü aşağıdadır.
 
 
-![ZooManagementSystem](https://github.com/alpulkegul/library_learning/assets/158475086/e8cfc575-9126-41a8-adb7-c0f03a04930a)
+
+
 
