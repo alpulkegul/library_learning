@@ -5,42 +5,136 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=, initial-scale=1.0">
-    <title>Odev 2</title>
+    <title>Homework 2</title>
 </head>
+<style>
+    body {
+        background-color: color-mix(in srgb, rgb(31, 31, 51) 25%, rgb(156, 149, 149));;    
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    h1 {
+        color: rgb(15, 85, 85);
+        text-align: center;
+    }
+
+    .ortalama {
+        margin-left: 300px;
+        margin-right: 300px;
+        margin-top: 25px;
+    }
+
+    a {
+        color: rgb(58, 28, 28);
+        text-decoration: none;
+        font-weight: normal;
+    }
+
+    a:hover{
+        text-decoration: underline;
+    }
+
+    a:visited{
+        color: #551a8b;
+    }
+
+    .kategori {
+        padding: 0;
+    }
+
+    .kategori-container {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .kategori h3 {
+        text-align: left;
+    }
+
+
+    .photo-album {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .photo {
+        width: calc(25% - 5px);
+        margin-top: 48px;
+        margin-bottom: 0px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        transition: 0.3s;
+        transition: transform 0.5s ease;
+        
+    }
+    img {
+        width: 100%;
+        height: 100%; 
+    }
+    .photo:hover {
+        box-shadow: 0 24px 48px 0 rgba(0, 0, 0, 0.3);
+        transform: scale(1.2);
+    }
+
+</style>
 <body>
     
     <h1>Alp Ulkegul</h1>
-    <h2>Hakkımda</h2>
-    <p>Lorem ipsum dolor sit amet <span style="color: blue;">consectetur <i>adipisicing</i> elit. Reiciendis placeat at illo neque, dicta</span> praesentium ea ad <u>laboriosam id </u> amet veritatis cupiditate iusto mollitia. Nisi. </p>
+    <hr>
+    <div class="ortalama">
+        <h2><u>Ben kimim?</u></h2>
+    
+    <p>"Teknolojinin her alanına ilgi duyan, <b>'Hayat boyu öğrenme'</b> mottosuyla hareket eden biri" olarak kendimi kısaca tanımlayabilirim. 
+        Siber güvenlik alanında kendimi geliştirmeye çalışıyor, ayrıca yazılımın diğer alanlarında da gelişim odaklı öğreniyorum. 
+        Şuan da <a href="https://www.omu.edu.tr/tr" target="_blank">Ondokuz Mayıs Üniversitesi</a> 'nde Bilişim güvenliği bölümü öğrencisiyim. Genellikle anlamlı müzikler dinlemeyi seviyorum. Kitap okumak pek hoşuma gitmiyor fakat ihtiyacım
+        oldukça kitap okuyorum. Araştırmayı seviyorum ve en yakın arkadaşım copilot :)) Bunlar haricinde satranç oynamak, yüzmek gibi klasik hobilerim var. Psikolojik ve kişisel
+        gelişim, girişimcilik gibi alanlara ilgim var. Farklı işletim sistemlerinde sörf yapıyor, siber suçları araştırıyor, network hakkında ve farklı programlama dillerindeki incelikler
+        hakkında bilgi sahibi olmaya çalışıyorum.</p>
+        <p><i>Sevgiyle kal.</i></p>
+        <hr>
+    
 
-    <h3>İlgi Alanlarım:</h3>
-    <ol>
-        <li>Film
-            <ul>
-                <li>Yüzüklerin Efendisi</li>
-                <li>Harry Potter</li>
-                <li>Esaretin Bedeli</li>
-            </ul>
-        </li>
-        <li>Dizi
-            <ul>
-                <li><a href="https://www.imdb.com/title/tt0903747/" target="_blank">Breaking Bad</a></li>
-                <li>Teen Wolf</li>
-                <li>La Casa De Papel</li>
-            </ul>
-        </li>
-        <li>Kitap
-            <ul>
-                <li>Suç ve Ceza</li>
-                <li><a href="https://www.goodreads.com/book/show/22739729-i-ktidar?ac=1&from_search=true&qid=c4CrJrHTKZ&rank=1" target="_blank">İktidar-Güç Sahibi Olmanın 48 Yasası</a> </li>
-                <li>Kürk Mantolu Madonna</li>
-            </ul>
-        </li>
-    </ol>
-    <h4>Sevdiğim Diziler</h4>
-    <h5>Breaking Bad</h5>
-    <p>A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling <del>methamphetamine</del> with a former student in order to secure his family's future.</p>
-    <img src="img/Breaking Bad.jpg" alt="Breaking Bad Dizi Kapağı" width="500px">
+    <h3>3 Kategoride Favoriler;</h3>
 
+    <div class="kategori-container">
+        <ul class="kategori">
+          <h3>FİLMLER</h3>
+          <li><a href="https://m.imdb.com/list/ls005053232/">Lord Of the Rings Series</a></li>
+          <li><a href="https://www.imdb.com/list/ls003814436/?ref_=otl_2">Harry Potter Series</a></li>
+          <li><a href="https://www.imdb.com/title/tt0111161/?ref_=nv_sr_srsg_0_tt_4_nm_0_q_esaretin%2520bedeli" target="_blank">The Shawshank Redemption</a></li>
+          <li><a href="https://m.imdb.com/list/ls020767998/" target="_blank">Maze Runner Series</a></li>
+
+        </ul>
+        
+        <ul class="kategori">
+          <h3>DİZİLER</h3>
+          <li><a href="https://m.imdb.com/title/tt0903747/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_breaking">Breaking Bad</a></li>
+          <li><a href="https://m.imdb.com/title/tt4052886/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_lucifer">Lucifer</a></li>
+          <li><a href="https://m.imdb.com/title/tt4574334/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_Stranger">Stranger Things</a></li>
+          <li><a href="https://m.imdb.com/title/tt6468322/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_La%2520casa%2520de">La Casa De Papel</a></li>
+        </ul>
+        
+        <ul class="kategori">
+          <h3>KİTAPLAR</h3>
+          <li><a href="https://www.goodreads.com/tr/book/show/57555746">Suç ve Ceza</a></li>
+          <li><a href="https://www.goodreads.com/book/show/22739729-i-ktidar?from_search=true&from_srp=true&qid=gshnmdYLHQ&rank=1">İktidar-Güç Sahibi Olmanın 48 Yasası</a></li>
+          <li><a href="https://goodreads.com/book/show/220826.K_rk_Mantolu_Madonna?ref=nav_sb_ss_1_8">Kürk Mantolu Madonna</a></li>
+        </ul>
+      </div>
+
+    <div class="photo-album">
+        <div class="photo"><img src="img/TheLordOfTheRings.jpg" alt="The Lord Of The Rings"></div>
+        <div class="photo"><img src="img/HarryPotter.jpg" alt="Harry Potter"></div>
+        <div class="photo"><img src="img/TheShawshankRedemption.jpg" alt="The Shawshank Redemption"></div>
+        <div class="photo"><img src="img/MazeRunner.jpg" alt="Maze Runner"></div>
+
+        <div class="photo"><img src="img/BreakingBad.jpg" alt="BreakingBad"></div>
+        <div class="photo"><img src="img/Lucifer.jpg" alt="Lucifer"></div>
+        <div class="photo"><img src="img/StrangerThings.jpg" alt="Stranger Things"></div>
+        <div class="photo"><img src="img/LaCasaDePapel.jpg" alt="La Casa De Papel"></div>
+      </div>
+
+      
+
+</div>
 </body>
 </html>
