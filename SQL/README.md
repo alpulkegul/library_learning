@@ -1,4 +1,4 @@
-# Project Name: Python
+# Project Name: SQL
 
 
 ### Repo ne amaçla hazırlanmıştır?
